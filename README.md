@@ -11,9 +11,9 @@
 <div align="center">
 
 ![Easy](https://img.shields.io/badge/Easy-65-brightgreen)
-![Medium](https://img.shields.io/badge/Medium-15-orange)
+![Medium](https://img.shields.io/badge/Medium-17-orange)
 ![Hard](https://img.shields.io/badge/Hard-4-red)
-![Total](https://img.shields.io/badge/Total-84-blue)
+![Total](https://img.shields.io/badge/Total-86-blue)
 
 </div>
 
